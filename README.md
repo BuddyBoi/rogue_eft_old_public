@@ -13,6 +13,7 @@ This project is for getting familiar with Unity's mono-compiled games, this is N
 If you have any questions feel free to email me at admin@rogue.rip
 
 Code notes:
+
 -PascalCase is meant to represent EFT / Unity functions
 
 -Offsets appear hardcoded as a build server adds most of them to project files via a script, sorry about that
