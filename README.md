@@ -10,4 +10,6 @@ Included is the usermode project and a testing NVidia overlay only.
 You will be banned if you use this without changing anything.
 This project is for getting familiar with Unity's mono-compiled games, this is NOT a cheat.
 
-If you have any questions feel free to email me at admin@rogue.rip
+Edit 6/8/23 : I've decided to slowly update and maintain this project, turning it into a complete usermode version of an open-source EFT External. Feel free to ask questions or request committs as you please.
+
+If you have any questions feel free to email me at admin@rogue.rip or my discord at : buddy#3823.
